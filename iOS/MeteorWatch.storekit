@@ -1,0 +1,42 @@
+{
+  "identifier": "meteorwatch",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Meteor Watch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "meteorwatch_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks multi-year shower comparison and best-viewing-spot notes.",
+              "displayName": "Meteor Watch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "meteorwatch_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Meteor Watch Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
